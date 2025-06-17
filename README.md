@@ -1,4 +1,4 @@
-# Simple Food Billing Program 🍽️
+# Restaurant Food Billing Program 🍽️
 
 A basic Python application that simulates a restaurant billing system. It collects customer details, displays a menu, allows the user to order two food items, and generates a final bill. This project was created as part of an internship task to apply fundamental Python concepts in a real-world context.
 
