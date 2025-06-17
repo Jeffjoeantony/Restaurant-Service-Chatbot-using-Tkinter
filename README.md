@@ -42,14 +42,14 @@ No additional libraries are required.
 
 ## ❗ Limitations
 
-  -> Order is limited to 2 items only
-  -> No input validation for phone number
-  -> No error handling using try-except blocks
+  - Order is limited to 2 items only
+  - No input validation for phone number
+  - No error handling using try-except blocks
 
 ## 📚 Learning Outcome
-  -> Improved understanding of Python basics
-  -> Hands-on practice with data structures like dictionaries and tuples
-  -> Real-world use case for user input handling and billing logic
+  - Improved understanding of Python basics
+  - Hands-on practice with data structures like dictionaries and tuples
+  - Real-world use case for user input handling and billing logic
 
 
 
